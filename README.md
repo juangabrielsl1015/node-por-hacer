@@ -22,3 +22,9 @@ git commit -m "MensajeDelCommit"
 git remote add origin https://github.com/juangabrielsl1015/node-por-hacer.git
 
 git push -u origin master
+
+git tag -a V1.0.0 -m "Primera Versión"
+
+git tag 
+
+git push --tags
